@@ -14,7 +14,7 @@ while (!guess) {
     guess = prompt("Enter a valid guess:");
 }
 
-// setting up theguess counter
+// setting up the guess counter
 let guessCount = 1;
 
 // guess loop, maximum 5 guesses
